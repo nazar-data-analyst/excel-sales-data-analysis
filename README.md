@@ -8,4 +8,6 @@ It included:
   -Regional analysis
   -Product performance
   -Date-wise analysis
-  -Interactive dahsboard using slicers
+  -Interactive dahsboard using slicers.
+## Dashboard Preview
+ ![Dashboard](screenshot/dashboard.png)
