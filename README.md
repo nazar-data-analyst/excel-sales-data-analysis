@@ -10,4 +10,4 @@ It included:
   -Date-wise analysis
   -Interactive dahsboard using slicers.
 ## Dashboard Preview
- ![Dashboard](screenshot/dashboard.png)
+ ![Dashboard](dashboard.png)
